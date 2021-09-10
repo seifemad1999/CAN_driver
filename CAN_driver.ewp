@@ -1883,6 +1883,9 @@
     <name>$PROJ_DIR$\can.h</name>
   </file>
   <file>
+    <name>$PROJ_DIR$\Common_Macros.h</name>
+  </file>
+  <file>
     <name>$PROJ_DIR$\main.c</name>
   </file>
   <file>
